@@ -1,0 +1,3 @@
+server/node_modules
+client/url-shortener/node_modules
+.vscode
